@@ -1,6 +1,6 @@
 # Linux File System Notes
 
-![Linux File System](linux_filesystem.png)
+![Linux File System](../images-videos/linux_filesystem.png)
 
   Linux      Purpose              Windows Equivalent
   ---------- -------------------- ----------------------------
