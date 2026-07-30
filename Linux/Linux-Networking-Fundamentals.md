@@ -3,13 +3,13 @@
 
 ### IP Address
 
-| Octet 1| Octet 2| Octet 3| Octet 4|
+	| Octet 1| Octet 2| Octet 3| Octet 4|
 
-|--------|--------|--------|--------|
+	|--------|--------|--------|--------|
 
-    11   .   0    .   1    .  125
+	    11   .   0    .   1    .  125
 
-| 8 bits | 8 bits | 8 bits | 8 bits |
+	| 8 bits | 8 bits | 8 bits | 8 bits |
 
 Total: **32 bits**  in an IPv4 address
 
