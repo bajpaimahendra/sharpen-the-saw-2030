@@ -13,7 +13,7 @@
     /        Root directory       C:\
     /bin     User commands        C:\Windows\System32
     /sbin    Admin commands       Admin tools
-### /etc     Configuration        Registry + Config files
+    /etc     Configuration        Registry + Config files
     /dev     Devices              Device Manager
     /proc    Process info         Task Manager
     /var     Logs, cache          ProgramData + Event Viewer
