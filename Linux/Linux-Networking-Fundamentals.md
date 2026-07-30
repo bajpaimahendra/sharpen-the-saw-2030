@@ -11,7 +11,8 @@
 
 	| 8 bits | 8 bits | 8 bits | 8 bits |
 
-&nbsp;&nbsp;&nbsp;&nbsp; Total: **32 bits**  in an IPv4 address
+	Total: [ 32 bits ]  in an IPv4 address
+
 
 ### Subnet / sub-networking / subnetting
 
