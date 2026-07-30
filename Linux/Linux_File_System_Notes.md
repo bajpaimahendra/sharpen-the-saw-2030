@@ -1,4 +1,4 @@
-# Linux File System Notes
+### Linux File System Notes
 
 <table>
 <tr>
@@ -13,7 +13,7 @@
     /        Root directory       C:\
     /bin     User commands        C:\Windows\System32
     /sbin    Admin commands       Admin tools
-    /etc     Configuration        Registry + Config files
+### /etc     Configuration        Registry + Config files
     /dev     Devices              Device Manager
     /proc    Process info         Task Manager
     /var     Logs, cache          ProgramData + Event Viewer
@@ -31,26 +31,6 @@
 </tr>
 </table>
 
-  ![Linux File System](../images-videos/linux_filesystem.png)
-
-    Linux      Purpose              Windows Equivalent
-    ---------- -------------------- ----------------------------
-    /        Root directory       C:\
-    /bin     User commands        C:\Windows\System32
-    /sbin    Admin commands       Admin tools
-    /etc     Configuration        Registry + Config files
-    /dev     Devices              Device Manager
-    /proc    Process info         Task Manager
-    /var     Logs, cache          ProgramData + Event Viewer
-    /tmp     Temporary files      %TEMP%
-    /usr     Installed programs   Program Files
-    /home    User folders         Users
-    /boot    Boot files           EFI/Boot partition
-    /lib     Libraries            DLL files
-    /opt     Optional apps        Program Files
-    /mnt     Manual mount         Mounted drive
-    /media   USB/CD               Removable drives
-    /srv     Service data         inetpub/wwwroot
 
 ## Remember
 
