@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="45%" valign="top">
-  <img src="../images-videos/linux-file-system.jpg" width="100%">
+  <img src="../images-videos/linux-file-system.jpg" width="100%" height="100%">
 </td>
 
 <td width="55%" valign="top">
